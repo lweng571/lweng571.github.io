@@ -11,23 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Information Engineering, Zhejiang University, 2004
+* M.Sc. in Digital Communication Systems and Technology, Chalmers University of Technology, 2006
+* Ph.D. in Electrical Engineering, University of Leuven, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2006.03--2013.02: Research Assistant
+  * University of Leuven, Belgium
+  * Duties included: Perceptual image hashing
+  * Supervisor: Prof. Bart Preneel
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 2013.03--2013.12: Post-doc researcher
+  * University of Geneva, Switzerland
+  * Duties included: Privacy-preserving content search
+  * Supervisor: Prof. Stephane Marchand-Maillet
+
+* 2014.05--2015.08: Post-doc researcher
+  * Inria (Renne), France
+  * Duties included: Privacy-preserving outsourced media search
+  * Supervisor: Dr. Teddy Furon
+
+* 2016.04--2017.12: Post-doc researcher
+  * IGN (French Mapping Agency), France
+  * Duties included: Semantic signatures for visual localization
+  * Supervisor: Dr. Valerie Gouet-Brunet
+
+* 2018.01--present: Assistant Professor
+  * Hangzhou Dianzi University, China
+  * Duties included: teaching and research in signal processing, machine learning, software technology, computer vision
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +70,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
