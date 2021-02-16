@@ -17,7 +17,21 @@ Education
 
 Work experience
 ======
-* 2006.03--2013.02: Research Assistant
+* 2018.01--present: Assistant Professor
+  * Hangzhou Dianzi University, China
+  * Duties included: teaching and research in signal processing, machine learning, software technology, computer vision
+
+* 2016.04--2017.12: Post-doc researcher
+  * IGN (French Mapping Agency), France
+  * Duties included: Semantic signatures for visual localization
+  * Supervisor: Dr. Valerie Gouet-Brunet
+
+* 2014.05--2015.08: Post-doc researcher
+  * Inria (Renne), France
+  * Duties included: Privacy-preserving outsourced media search
+  * Supervisor: Dr. Teddy Furon
+
+* 2014.02--2014.04: Post-doc researcher
   * University of Leuven, Belgium
   * Duties included: Perceptual image hashing
   * Supervisor: Prof. Bart Preneel
@@ -27,19 +41,16 @@ Work experience
   * Duties included: Privacy-preserving content search
   * Supervisor: Prof. Stephane Marchand-Maillet
 
-* 2014.05--2015.08: Post-doc researcher
-  * Inria (Renne), France
-  * Duties included: Privacy-preserving outsourced media search
-  * Supervisor: Dr. Teddy Furon
+* 2006.03--2013.02: Research Assistant
+  * University of Leuven, Belgium
+  * Duties included: Perceptual image hashing
+  * Supervisor: Prof. Bart Preneel
 
-* 2016.04--2017.12: Post-doc researcher
-  * IGN (French Mapping Agency), France
-  * Duties included: Semantic signatures for visual localization
-  * Supervisor: Dr. Valerie Gouet-Brunet
 
-* 2018.01--present: Assistant Professor
-  * Hangzhou Dianzi University, China
-  * Duties included: teaching and research in signal processing, machine learning, software technology, computer vision
+
+
+
+
 
 <!-- Skills
 ======
