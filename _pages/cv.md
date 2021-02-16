@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.Eng. in Information Engineering, Zhejiang University, 2004
-* M.Sc. in Digital Communication Systems and Technology, Chalmers University of Technology, 2006
+------
 * Ph.D. in Electrical Engineering, University of Leuven, 2012
+* M.Sc. in Digital Communication Systems and Technology, Chalmers University of Technology, 2006
+* B.Eng. in Information Engineering, Zhejiang University, 2004
 
 Work experience
-======
+------
 * 2018.01--present: Assistant Professor
   * Hangzhou Dianzi University, China
   * Duties included: teaching and research in signal processing, machine learning, software technology, computer vision
