@@ -17,7 +17,7 @@ author_profile: true
 
 
 Journal publication:
-======
+====
 1.	Li Weng, Valerie Gouet-Brunet, Bahman Soheilian, Semantic signatures for large-scale visual localization, Multimedia Tools and Applications, 26 pages, 2020
 
 1.	Li Weng, Laurent Amsaleg, and Teddy Furon. Privacy-preserving outsourced media search. IEEE Transactions on Knowledge and Data Engineering, 28(10): 2738-2751, Oct. 2016.
@@ -27,16 +27,16 @@ Journal publication:
 1.	Rossitza Dodunekova and Li Weng. Sufficient conditions for interval properness of linear error detecting codes. Mathematica Balkanica (New Series), 21(3-4):245–258, 2007.
 
 Book chapter:
-======
+====
 1.	Li Weng, I-Hong Jhuo, Wen-Huang Cheng, Big Data Analytics for Large-Scale Multimedia Search (Perceptual Hashing for Large-scale Multimedia Search), John Wiley & Sons, 348 pages, 2019
 
 Conference publication:
-======
+====
 1.	Li Weng, Bahman Soheilian, Valerie Gouet-Brunet, Semantic signatures for urban visual localization, International Conference on Content-Based Multimedia Indexing (CBMI), pages 1-6, 2018
 
 2.	Neelanjan Bhowmik, Li Weng, Valerie Gouet-Brunet, Bahman Soheilian. Cross-domain image localization by adaptive feature fusion. Joint Urban Remote Sensing Event (Jurse), pages 1-4, 2017.
 
-3.	I-Hong Jhuo, Li Weng*, Wen-Huang Cheng, D. T. Lee. A feature fusion framework for hashing. International Conference on Pattern Recognition (ICPR), pages 2288-2293, 2016. (*co-first author)
+3.	I-Hong Jhuo, Li Weng, Wen-Huang Cheng, D. T. Lee. A feature fusion framework for hashing. International Conference on Pattern Recognition (ICPR), pages 2288-2293, 2016.
 
 4.	Li Weng, I-Hong Jhuo, Miaojing Shi, Meng Sun, Wen-Huang Cheng, and Laurent Amsaleg. Supervised multi-scale locality sensitive hashing. International Conference on Multimedia Retrieval (ICMR), pages 259-266, 2015.
 
