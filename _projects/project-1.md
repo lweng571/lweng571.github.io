@@ -2,12 +2,8 @@
 title: "Multiple-feature based image retrieval techniques for large-scale visual localization"
 collection: projects
 excerpt: "2019-01/2021-12"
-<!-- type: "Zhejiang Provincial Natural Science Foundation of China"
-permalink: /projects/project-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country" -->
 ---
+
 Multiple-feature based image retrieval techniques for large-scale visual localization
 ------
 
