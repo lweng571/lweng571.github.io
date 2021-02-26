@@ -2,7 +2,7 @@
 title: "Multiple-feature based image retrieval techniques for large-scale visual localization"
 collection: projects
 <!-- type: "Exploration" -->
-permalink: /projects/project-1
+permalink: /projects/projects-1
 <!-- venue: "University 1, Department" -->
 period: from 2018-01 to 2021-12
 <!-- location: "City, Country" -->
